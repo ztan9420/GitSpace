@@ -2,3 +2,4 @@
 我是master分支---我来制造一个合并冲突
 我是ztan分支---我来制造一个合并冲突
 我在github中修改hello.txt
+使用ssh推送hello.txt文件
